@@ -1,11 +1,15 @@
 {
-"data":[
-  {
-    "id":1,
-    "name":"jayson garing",
-     "age":28,
-    "work":"web developer",
-    "hobbies":["reading manga","dota 2","watching anime"]
-  }
-]
+  "data": [
+    {
+      "id": 1,
+      "name": "jayson garing",
+      "age": 21,
+      "work": "web developer",
+      "hobbies": [
+        "reading manga",
+        "dota 2",
+        "watching anime"
+      ]
+    }
+  ]
 }
