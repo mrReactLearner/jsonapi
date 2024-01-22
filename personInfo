@@ -3,13 +3,24 @@
     {
       "id": 1,
       "name": "jayson garing",
-      "age": 21,
+      "age": 28,
       "work": "web developer",
       "hobbies": [
         "reading manga",
         "dota 2",
         "watching anime"
       ]
+    },
+    {
+      {
+        "id": 2,
+        "name": "john dave garing",
+        "age": 21,
+        "work": "student",
+        "hobbies": [ 
+          "valorant"
+        ]
+      }
     }
   ]
 }
